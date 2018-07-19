@@ -1,0 +1,840 @@
+{2018/04/12 11:31:47} RaspiMJPEG Version 5.8.10
+{2018/04/12 11:31:47} recommended video buffer size 65536
+{2018/04/12 11:31:47} h264 size set to 131072
+{2018/04/12 11:31:47} recommended video buffers 1
+{2018/04/12 11:31:47} h264 buffers set to recommended 1
+{2018/04/12 11:31:47} Opening FIFO 0 /var/www/camera/FIFO 6
+{2018/04/12 11:31:47} Opening FIFO 1 /var/www/camera/FIFO11 7
+{2018/04/12 11:31:47} MJPEG streaming, ready to receive commands
+{2018/04/12 11:31:47} send smd 9
+[2018/04/12 11:31:50] RaspiCam support started
+[2018/04/12 11:31:50] Capture Pipe already exists /var/www/camera/FIFO1
+[2018/04/12 11:31:50] Scheduler loop is started
+{2018/04/12 11:31:50} Starting command loop
+[2018/04/12 11:31:50] Reload parameters command requested
+[2018/04/12 11:31:50] Scheduler loop is started
+[2018/04/12 11:31:51] New period detected 0
+[2018/04/12 11:31:51] Scheduled management tasks. Next at 1523536311
+[2018/04/12 11:32:10] Logged in user::
+[2018/04/12 11:32:10] UserLevel 6
+{2018/04/12 11:32:28} Change: video_width = 1920
+{2018/04/12 11:32:28} Change: video_height = 1080
+{2018/04/12 11:32:28} Change: video_fps = 25
+{2018/04/12 11:32:28} Change: MP4Box_fps = 25
+{2018/04/12 11:32:28} Change: image_width = 2592
+{2018/04/12 11:32:28} Change: image_height = 1944
+{2018/04/12 11:32:28} recommended video buffer size 65536
+{2018/04/12 11:32:28} h264 size set to 131072
+{2018/04/12 11:32:28} recommended video buffers 1
+{2018/04/12 11:32:28} h264 buffers set to recommended 1
+{2018/04/12 11:32:51} Change: motion_external = 0
+[2018/04/12 11:32:52] Logged in user::
+[2018/04/12 11:32:52] UserLevel 6
+{2018/04/12 11:33:21} Change: sharpness = 60
+{2018/04/12 11:33:49} Change: image_quality = 100
+{2018/04/12 11:34:00} Change: rotation = 180
+{2018/04/12 11:34:10} Change: metering_mode = spot
+{2018/04/12 11:34:13} Change: metering_mode = matrix
+{2018/04/12 11:34:20} Change: raw_layer = 1
+{2018/04/12 11:34:40} Change: iso = 100
+{2018/04/12 11:34:50} Change: iso = 800
+{2018/04/12 11:35:06} Change: video_width = 1280
+{2018/04/12 11:35:06} Change: video_height = 0720
+{2018/04/12 11:35:06} Change: video_fps = 25
+{2018/04/12 11:35:06} Change: MP4Box_fps = 25
+{2018/04/12 11:35:06} Change: image_width = 2592
+{2018/04/12 11:35:06} Change: image_height = 1944
+{2018/04/12 11:35:06} recommended video buffer size 65536
+{2018/04/12 11:35:06} h264 size set to 131072
+{2018/04/12 11:35:06} recommended video buffers 1
+{2018/04/12 11:35:06} h264 buffers set to recommended 1
+{2018/04/12 11:35:06} Set up internal detect width=81 height=45
+{2018/04/12 11:35:07} Change: video_width = 1280
+{2018/04/12 11:35:07} Change: video_height = 0720
+{2018/04/12 11:35:07} Change: video_fps = 25
+{2018/04/12 11:35:07} Change: MP4Box_fps = 25
+{2018/04/12 11:35:07} Change: image_width = 2592
+{2018/04/12 11:35:07} Change: image_height = 1944
+{2018/04/12 11:35:07} recommended video buffer size 65536
+{2018/04/12 11:35:07} h264 size set to 131072
+{2018/04/12 11:35:07} recommended video buffers 1
+{2018/04/12 11:35:07} h264 buffers set to recommended 1
+{2018/04/12 11:35:07} Set up internal detect width=81 height=45
+{2018/04/12 11:35:15} Change: video_width = 1296
+{2018/04/12 11:35:15} Change: video_height = 972
+{2018/04/12 11:35:15} Change: video_fps = 25
+{2018/04/12 11:35:15} Change: MP4Box_fps = 25
+{2018/04/12 11:35:15} Change: image_width = 2592
+{2018/04/12 11:35:15} Change: image_height = 1944
+{2018/04/12 11:35:15} recommended video buffer size 65536
+{2018/04/12 11:35:15} h264 size set to 131072
+{2018/04/12 11:35:15} recommended video buffers 1
+{2018/04/12 11:35:15} h264 buffers set to recommended 1
+{2018/04/12 11:35:15} Set up internal detect width=82 height=61
+{2018/04/12 11:35:24} Change: video_width = 1920
+{2018/04/12 11:35:24} Change: video_height = 1080
+{2018/04/12 11:35:24} Change: video_fps = 01
+{2018/04/12 11:35:24} Change: MP4Box_fps = 30
+{2018/04/12 11:35:24} Change: image_width = 2592
+{2018/04/12 11:35:24} Change: image_height = 1944
+{2018/04/12 11:35:24} recommended video buffer size 65536
+{2018/04/12 11:35:24} h264 size set to 131072
+{2018/04/12 11:35:24} recommended video buffers 1
+{2018/04/12 11:35:24} h264 buffers set to recommended 1
+{2018/04/12 11:35:24} Set up internal detect width=121 height=68
+{2018/04/12 11:35:24} Change: video_width = 1920
+{2018/04/12 11:35:24} Change: video_height = 1080
+{2018/04/12 11:35:24} Change: video_fps = 01
+{2018/04/12 11:35:24} Change: MP4Box_fps = 30
+{2018/04/12 11:35:24} Change: image_width = 2592
+{2018/04/12 11:35:24} Change: image_height = 1944
+{2018/04/12 11:35:24} recommended video buffer size 65536
+{2018/04/12 11:35:24} h264 size set to 131072
+{2018/04/12 11:35:24} recommended video buffers 1
+{2018/04/12 11:35:24} h264 buffers set to recommended 1
+{2018/04/12 11:35:25} Set up internal detect width=121 height=68
+{2018/04/12 11:35:27} Change: video_width = 768
+{2018/04/12 11:35:27} Change: video_height = 576
+{2018/04/12 11:35:27} Change: video_fps = 25
+{2018/04/12 11:35:27} Change: MP4Box_fps = 25
+{2018/04/12 11:35:27} Change: image_width = 2592
+{2018/04/12 11:35:27} Change: image_height = 1944
+{2018/04/12 11:35:27} recommended video buffer size 65536
+{2018/04/12 11:35:27} h264 size set to 131072
+{2018/04/12 11:35:27} recommended video buffers 1
+{2018/04/12 11:35:27} h264 buffers set to recommended 1
+{2018/04/12 11:35:27} Set up internal detect width=49 height=36
+{2018/04/12 11:35:30} Change: video_width = 1296
+{2018/04/12 11:35:30} Change: video_height = 972
+{2018/04/12 11:35:30} Change: video_fps = 25
+{2018/04/12 11:35:30} Change: MP4Box_fps = 25
+{2018/04/12 11:35:30} Change: image_width = 2592
+{2018/04/12 11:35:30} Change: image_height = 1944
+{2018/04/12 11:35:31} recommended video buffer size 65536
+{2018/04/12 11:35:31} h264 size set to 131072
+{2018/04/12 11:35:31} recommended video buffers 1
+{2018/04/12 11:35:31} h264 buffers set to recommended 1
+{2018/04/12 11:35:31} Set up internal detect width=82 height=61
+{2018/04/12 11:35:32} Change: video_width = 1296
+{2018/04/12 11:35:32} Change: video_height = 972
+{2018/04/12 11:35:32} Change: video_fps = 25
+{2018/04/12 11:35:32} Change: MP4Box_fps = 25
+{2018/04/12 11:35:32} Change: image_width = 2592
+{2018/04/12 11:35:32} Change: image_height = 1944
+{2018/04/12 11:35:32} recommended video buffer size 65536
+{2018/04/12 11:35:32} h264 size set to 131072
+{2018/04/12 11:35:32} recommended video buffers 1
+{2018/04/12 11:35:32} h264 buffers set to recommended 1
+{2018/04/12 11:35:32} Set up internal detect width=82 height=61
+{2018/04/12 11:35:41} Change: saturation = 50
+{2018/04/12 11:35:50} Change: contrast = 50
+{2018/04/12 11:36:02} Change: video_buffer = 500
+{2018/04/12 11:36:02} DEBUG 3
+{2018/04/12 11:36:13} Change: exposure_compensation = 5
+{2018/04/12 11:36:20} Change: contrast = 0
+{2018/04/12 11:36:30} Change: colour_effect_u = 128
+{2018/04/12 11:36:30} Change: colour_effect_v = 128
+{2018/04/12 11:36:30} Change: colour_effect_en = 1
+{2018/04/12 11:36:50} Change: motion_external = 2
+[2018/04/12 11:36:51] Logged in user::
+[2018/04/12 11:36:51] UserLevel 6
+{2018/04/12 11:37:04} Change: vector_preview = 1
+{2018/04/12 11:37:04} recommended video buffer size 65536
+{2018/04/12 11:37:04} h264 size set to 131072
+{2018/04/12 11:37:04} recommended video buffers 1
+{2018/04/12 11:37:04} h264 buffers set to recommended 1
+{2018/04/12 11:37:04} Set up internal detect width=82 height=61
+{2018/04/12 11:37:04} DEBUG 3
+[2018/04/12 11:37:04] Logged in user::
+[2018/04/12 11:37:04] UserLevel 6
+{2018/04/12 11:37:09} Change: vector_preview = 0
+{2018/04/12 11:37:09} recommended video buffer size 65536
+{2018/04/12 11:37:09} h264 size set to 131072
+{2018/04/12 11:37:09} recommended video buffers 1
+{2018/04/12 11:37:09} h264 buffers set to recommended 1
+{2018/04/12 11:37:09} Set up internal detect width=82 height=61
+{2018/04/12 11:37:10} DEBUG 3
+[2018/04/12 11:37:10] Logged in user::
+[2018/04/12 11:37:10] UserLevel 6
+{2018/04/12 11:37:26} Change: metering_mode = average
+{2018/04/12 11:37:28} Change: video_stabilisation = 1
+{2018/04/12 11:39:09} Change: shutter_speed = 1000
+{2018/04/12 11:39:18} Change: shutter_speed = 0
+{2018/04/12 11:42:46} Change: video_width = 1920
+{2018/04/12 11:42:46} Change: video_height = 1080
+{2018/04/12 11:42:46} Change: video_fps = 25
+{2018/04/12 11:42:46} Change: MP4Box_fps = 25
+{2018/04/12 11:42:46} Change: image_width = 2592
+{2018/04/12 11:42:46} Change: image_height = 1944
+{2018/04/12 11:42:46} recommended video buffer size 65536
+{2018/04/12 11:42:46} h264 size set to 131072
+{2018/04/12 11:42:46} recommended video buffers 1
+{2018/04/12 11:42:46} h264 buffers set to recommended 1
+{2018/04/12 11:42:46} Set up internal detect width=121 height=68
+{2018/04/12 11:42:46} DEBUG 3
+{2018/04/12 11:43:18} Change: video_buffer = '
+{2018/04/12 11:43:20} Change: video_buffer = 0
+{2018/04/12 11:43:23} Change: sharpness = 0
+{2018/04/12 11:43:25} Change: brightness = 0
+{2018/04/12 11:43:28} Change: saturation = 0
+{2018/04/12 11:43:29} Watchdog detected problem. Stopping{2018/04/12 11:43:30} SIGINT/SIGTERM received, stopping
+{2018/04/12 11:43:35} RaspiMJPEG Version 5.8.10
+{2018/04/12 11:43:35} recommended video buffer size 65536
+{2018/04/12 11:43:35} h264 size set to 131072
+{2018/04/12 11:43:35} recommended video buffers 1
+{2018/04/12 11:43:35} h264 buffers set to recommended 1
+{2018/04/12 11:43:35} Set up internal detect width=121 height=68
+{2018/04/12 11:43:35} Opening FIFO 0 /var/www/camera/FIFO 7
+{2018/04/12 11:43:35} Opening FIFO 1 /var/www/camera/FIFO11 8
+{2018/04/12 11:43:35} MJPEG streaming, ready to receive commands
+{2018/04/12 11:43:35} send smd 9
+{2018/04/12 11:43:35} Starting command loop
+[2018/04/12 11:43:35] Reload parameters command requested
+[2018/04/12 11:43:35] Scheduler loop is started
+[2018/04/12 11:43:36] New period detected 0
+[2018/04/12 11:43:36] Scheduled management tasks. Next at 1523537016
+{2018/04/12 11:43:50} Change: raw_layer = 0
+[2018/04/12 11:43:53] Logged in user::
+[2018/04/12 11:43:53] UserLevel 6
+{2018/04/12 11:44:00} Reset settings. Backed up and cleared to defaults
+{2018/04/12 11:44:00} recommended video buffer size 65536
+{2018/04/12 11:44:00} h264 size set to 131072
+{2018/04/12 11:44:00} recommended video buffers 1
+{2018/04/12 11:44:00} h264 buffers set to recommended 1
+[2018/04/12 11:44:01] Logged in user::
+[2018/04/12 11:44:01] UserLevel 6
+{2018/04/12 11:44:16} Change: rotation = 180
+{2018/04/12 11:19:57} RaspiMJPEG Version 5.8.10
+{2018/04/12 11:19:57} recommended video buffer size 65536
+{2018/04/12 11:19:57} h264 size set to 131072
+{2018/04/12 11:19:57} recommended video buffers 1
+{2018/04/12 11:19:57} h264 buffers set to recommended 1
+{2018/04/12 11:19:57} Opening FIFO 0 /var/www/camera/FIFO 7
+{2018/04/12 11:19:57} Opening FIFO 1 /var/www/camera/FIFO11 8
+{2018/04/12 11:19:57} MJPEG streaming, ready to receive commands
+{2018/04/12 11:19:57} send smd 9
+[2018/04/12 11:20:03] RaspiCam support started
+[2018/04/12 11:20:03] Capture Pipe already exists /var/www/camera/FIFO1
+[2018/04/12 11:20:03] Scheduler loop is started
+{2018/04/12 11:20:03} Starting command loop
+[2018/04/12 11:20:03] Reload parameters command requested
+[2018/04/12 11:20:03] Scheduler loop is started
+[2018/04/12 11:20:04] New period detected 0
+[2018/04/12 11:20:04] Scheduled management tasks. Next at 1523535604
+[2018/04/12 11:20:08] Logged in user::
+[2018/04/12 11:20:08] UserLevel 6
+{2018/04/12 11:46:44} External motion detection started
+{2018/04/12 11:46:44} recommended video buffer size 65536
+{2018/04/12 11:46:44} h264 size set to 131072
+{2018/04/12 11:46:44} recommended video buffers 1
+{2018/04/12 11:46:44} h264 buffers set to recommended 1
+[2018/04/12 11:46:50] Start capture requested from Pipe
+[2018/04/12 11:46:50] Send ca 1
+{2018/04/12 11:46:50} Capturing started
+{2018/04/12 11:47:02} External motion detection stopped
+{2018/04/12 11:47:02} Change: motion_external = 0
+[2018/04/12 11:47:02] Stop capture requested
+[2018/04/12 11:47:02] Send ca 0
+{2018/04/12 11:47:03} Capturing stopped
+{2018/04/12 11:47:03} Add /var/www/camera/media/vi_0000_20180412_114650.mp4 to Box Queue at pos 0
+[2018/04/12 11:47:03] Logged in user::
+[2018/04/12 11:47:03] UserLevel 6
+{2018/04/12 11:47:03} Start boxing /var/www/camera/media/vi_0000_20180412_114650.h264 to /var/www/camera/media/vi_0000_20180412_114650.mp4 Queue pos 0
+{2018/04/12 11:47:04} send smd 1
+[2018/04/12 11:47:04] Start capture requested from Pipe
+[2018/04/12 11:47:04] Send ca 1
+{2018/04/12 11:47:04} Capturing started
+{2018/04/12 11:47:06} Finished boxing /var/www/camera/media/vi_0000_20180412_114650.mp4 from Box Queue at pos 0
+{2018/04/12 11:47:09} Removed item from Box Queue
+{2018/04/12 11:47:12} send smd 0
+[2018/04/12 11:47:12] Stop capture requested
+[2018/04/12 11:47:12] Send ca 0
+{2018/04/12 11:47:12} Capturing stopped
+{2018/04/12 11:47:12} Add /var/www/camera/media/vi_0001_20180412_114704.mp4 to Box Queue at pos 1
+{2018/04/12 11:47:13} Start boxing /var/www/camera/media/vi_0001_20180412_114704.h264 to /var/www/camera/media/vi_0001_20180412_114704.mp4 Queue pos 1
+{2018/04/12 11:47:14} Finished boxing /var/www/camera/media/vi_0001_20180412_114704.mp4 from Box Queue at pos 1
+{2018/04/12 11:47:14} Removed item from Box Queue
+{2018/04/12 11:47:14} Internal motion detection stopped
+{2018/04/12 11:47:15} recommended video buffer size 65536
+{2018/04/12 11:47:15} h264 size set to 131072
+{2018/04/12 11:47:15} recommended video buffers 1
+{2018/04/12 11:47:15} h264 buffers set to recommended 1
+{2018/04/12 11:47:15} Set up internal detect width=121 height=68
+{2018/04/12 11:47:17} Change: vector_preview = 1
+{2018/04/12 11:47:17} recommended video buffer size 65536
+{2018/04/12 11:47:17} h264 size set to 131072
+{2018/04/12 11:47:17} recommended video buffers 1
+{2018/04/12 11:47:17} h264 buffers set to recommended 1
+{2018/04/12 11:47:17} Set up internal detect width=121 height=68
+[2018/04/12 11:47:18] Logged in user::
+[2018/04/12 11:47:18] UserLevel 6
+{2018/04/12 11:47:29} Change: vector_preview = 0
+{2018/04/12 11:47:29} recommended video buffer size 65536
+{2018/04/12 11:47:29} h264 size set to 131072
+{2018/04/12 11:47:29} recommended video buffers 1
+{2018/04/12 11:47:29} h264 buffers set to recommended 1
+{2018/04/12 11:47:29} Set up internal detect width=121 height=68
+[2018/04/12 11:47:29] Logged in user::
+[2018/04/12 11:47:30] UserLevel 6
+{2018/04/12 11:47:56} Capturing started
+{2018/04/12 11:48:56} Capturing stopped
+{2018/04/12 11:48:56} Add /var/www/camera/media/vi_0002_20180412_114756.mp4 to Box Queue at pos 2
+{2018/04/12 11:48:56} Start boxing /var/www/camera/media/vi_0002_20180412_114756.h264 to /var/www/camera/media/vi_0002_20180412_114756.mp4 Queue pos 2
+{2018/04/12 11:49:21} Finished boxing /var/www/camera/media/vi_0002_20180412_114756.mp4 from Box Queue at pos 2
+{2018/04/12 11:49:21} Removed item from Box Queue
+[2018/04/12 11:49:28] Generating ZIP using command: zip -0 -q - media/vi_0000_20180412_114650.mp4 media/vi_0001_20180412_114704.mp4 media/vi_0002_20180412_114756.mp4 (159030414 bytes)
+[2018/04/12 11:50:24] Logged in user::
+[2018/04/12 11:50:24] UserLevel 6
+[2018/04/12 12:20:05] Scheduled management tasks. Next at 1523539205
+[2018/04/12 12:40:18] Logged in user::
+[2018/04/12 12:40:18] UserLevel 6
+[2018/04/12 13:20:06] Scheduled management tasks. Next at 1523542806
+[2018/04/12 14:20:07] Scheduled management tasks. Next at 1523546407
+{2018/04/12 15:17:53} Stream halted
+{2018/04/12 15:17:57} recommended video buffer size 65536
+{2018/04/12 15:17:57} h264 size set to 131072
+{2018/04/12 15:17:57} recommended video buffers 1
+{2018/04/12 15:17:57} h264 buffers set to recommended 1
+{2018/04/12 15:17:57} Set up internal detect width=121 height=68
+{2018/04/12 15:17:57} Stream continued
+[2018/04/12 15:19:25] Logged in user::
+[2018/04/12 15:19:25] UserLevel 6
+[2018/04/12 15:19:57] Logged in user::
+[2018/04/12 15:19:57] UserLevel 6
+[2018/04/12 15:20:08] Scheduled management tasks. Next at 1523550008
+{2018/04/12 15:21:03} Capturing image
+{2018/04/12 15:36:30} Stream halted
+{2018/04/12 15:36:37} recommended video buffer size 65536
+{2018/04/12 15:36:37} h264 size set to 131072
+{2018/04/12 15:36:37} recommended video buffers 1
+{2018/04/12 15:36:37} h264 buffers set to recommended 1
+{2018/04/12 15:36:37} Set up internal detect width=121 height=68
+{2018/04/12 15:36:37} Stream continued
+{2018/04/12 15:37:20} Stream halted
+{2018/04/12 15:37:25} recommended video buffer size 65536
+{2018/04/12 15:37:25} h264 size set to 131072
+{2018/04/12 15:37:25} recommended video buffers 1
+{2018/04/12 15:37:25} h264 buffers set to recommended 1
+{2018/04/12 15:37:25} Set up internal detect width=121 height=68
+{2018/04/12 15:37:25} Stream continued
+{2018/04/12 15:38:21} Stream halted
+{2018/04/12 15:38:32} recommended video buffer size 65536
+{2018/04/12 15:38:32} h264 size set to 131072
+{2018/04/12 15:38:32} recommended video buffers 1
+{2018/04/12 15:38:32} h264 buffers set to recommended 1
+{2018/04/12 15:38:32} Set up internal detect width=121 height=68
+{2018/04/12 15:38:32} Stream continued
+{2018/04/12 15:38:42} Stream halted
+{2018/04/12 15:38:46} recommended video buffer size 65536
+{2018/04/12 15:38:46} h264 size set to 131072
+{2018/04/12 15:38:46} recommended video buffers 1
+{2018/04/12 15:38:46} h264 buffers set to recommended 1
+{2018/04/12 15:38:46} Set up internal detect width=121 height=68
+{2018/04/12 15:38:46} Stream continued
+{2018/04/12 15:38:53} Stream halted
+{2018/04/12 15:39:10} recommended video buffer size 65536
+{2018/04/12 15:39:10} h264 size set to 131072
+{2018/04/12 15:39:10} recommended video buffers 1
+{2018/04/12 15:39:10} h264 buffers set to recommended 1
+{2018/04/12 15:39:10} Set up internal detect width=121 height=68
+{2018/04/12 15:39:10} Stream continued
+[2018/04/12 15:45:33] Logged in user::
+[2018/04/12 15:45:33] UserLevel 6
+{2018/04/12 15:52:39} Change: motion_file = 1
+{2018/04/12 15:52:57} Change: motion_external = 1
+[2018/04/12 15:52:58] Logged in user::
+[2018/04/12 15:52:58] UserLevel 6
+{2018/04/12 15:53:03} External motion detection started
+{2018/04/12 15:53:03} recommended video buffer size 65536
+{2018/04/12 15:53:03} h264 size set to 131072
+{2018/04/12 15:53:03} recommended video buffers 1
+{2018/04/12 15:53:03} h264 buffers set to recommended 1
+[2018/04/12 15:53:09] Start capture requested from Pipe
+[2018/04/12 15:53:09] Send ca 1
+{2018/04/12 15:53:09} Capturing started
+[2018/04/12 15:53:55] Logged in user::
+[2018/04/12 15:53:55] UserLevel 6
+{2018/04/12 15:54:09} External motion detection stopped
+{2018/04/12 15:54:09} Change: motion_external = 0
+[2018/04/12 15:54:09] Stop capture requested
+[2018/04/12 15:54:10] Send ca 0
+[2018/04/12 15:54:10] Logged in user::
+[2018/04/12 15:54:10] UserLevel 6
+{2018/04/12 15:54:14} RaspiMJPEG Version 5.8.10
+{2018/04/12 15:54:14} recommended video buffer size 65536
+{2018/04/12 15:54:14} h264 size set to 131072
+{2018/04/12 15:54:14} recommended video buffers 1
+{2018/04/12 15:54:14} h264 buffers set to recommended 1
+{2018/04/12 15:54:14} Set up internal detect width=121 height=68
+{2018/04/12 15:54:14} Opening FIFO 0 /var/www/camera/FIFO 7
+{2018/04/12 15:54:14} Opening FIFO 1 /var/www/camera/FIFO11 8
+{2018/04/12 15:54:14} MJPEG streaming, ready to receive commands
+{2018/04/12 15:54:14} send smd 9
+{2018/04/12 15:54:14} Starting command loop
+[2018/04/12 15:54:14] Reload parameters command requested
+[2018/04/12 15:54:14] Scheduler loop is started
+[2018/04/12 15:54:15] New period detected 0
+[2018/04/12 15:54:15] Scheduled management tasks. Next at 1523552055
+[2018/04/12 15:54:29] Generating ZIP using command: zip -0 -q - media/im_0000_20180412_152103.jpg (1448408 bytes)
+[2018/04/12 15:54:43] Logged in user::
+[2018/04/12 15:54:43] UserLevel 6
+[2018/04/12 16:13:48] Logged in user::
+[2018/04/12 16:13:48] UserLevel 6
+{2018/04/12 16:14:30} Timelapse started
+{2018/04/12 16:14:33} Capturing image
+{2018/04/12 16:14:36} Capturing image
+{2018/04/12 16:14:39} Capturing image
+{2018/04/12 16:14:42} Capturing image
+{2018/04/12 16:14:44} Timelapse stopped
+[2018/04/12 16:14:59] Logged in user::
+[2018/04/12 16:14:59] UserLevel 6
+{2018/04/12 16:15:04} Change: video_width = 1920
+{2018/04/12 16:15:04} Change: video_height = 1080
+{2018/04/12 16:15:04} Change: video_fps = 25
+{2018/04/12 16:15:04} Change: MP4Box_fps = 25
+{2018/04/12 16:15:04} Change: image_width = 2592
+{2018/04/12 16:15:04} Change: image_height = 1944
+{2018/04/12 16:15:05} recommended video buffer size 65536
+{2018/04/12 16:15:05} h264 size set to 131072
+{2018/04/12 16:15:05} recommended video buffers 1
+{2018/04/12 16:15:05} h264 buffers set to recommended 1
+{2018/04/12 16:15:05} Set up internal detect width=121 height=68
+{2018/04/12 16:15:08} Change: video_width = 1296
+{2018/04/12 16:15:08} Change: video_height = 972
+{2018/04/12 16:15:08} Change: video_fps = 25
+{2018/04/12 16:15:08} Change: MP4Box_fps = 25
+{2018/04/12 16:15:08} Change: image_width = 2592
+{2018/04/12 16:15:08} Change: image_height = 1944
+{2018/04/12 16:15:08} recommended video buffer size 65536
+{2018/04/12 16:15:08} h264 size set to 131072
+{2018/04/12 16:15:08} recommended video buffers 1
+{2018/04/12 16:15:08} h264 buffers set to recommended 1
+{2018/04/12 16:15:08} Set up internal detect width=82 height=61
+[2018/04/12 16:15:48] Logged in user::
+[2018/04/12 16:15:48] UserLevel 6
+[2018/04/12 16:25:05] Logged in user::
+[2018/04/12 16:25:05] UserLevel 6
+{2018/04/12 16:35:03} SIGINT/SIGTERM received, stopping
+[2018/04/12 16:35:40] Logged in user::
+[2018/04/12 16:35:40] UserLevel 6
+[2018/04/12 16:35:45] Logged in user::
+[2018/04/12 16:35:45] UserLevel 6
+[2018/04/12 16:35:46] Logged in user::
+[2018/04/12 16:35:46] UserLevel 6
+[2018/04/12 16:35:47] Logged in user::
+[2018/04/12 16:35:47] UserLevel 6
+[2018/04/12 16:35:47] Logged in user::
+[2018/04/12 16:35:47] UserLevel 6
+[2018/04/12 16:35:48] Logged in user::
+[2018/04/12 16:35:48] UserLevel 6
+[2018/04/12 16:35:51] Logged in user::
+[2018/04/12 16:35:51] UserLevel 6
+[2018/04/12 16:35:52] Logged in user::
+[2018/04/12 16:35:52] UserLevel 6
+[2018/04/12 16:35:58] Logged in user::
+[2018/04/12 16:35:58] UserLevel 6
+[2018/04/12 16:35:59] Logged in user::
+[2018/04/12 16:35:59] UserLevel 6
+[2018/04/12 16:36:05] Logged in user::
+[2018/04/12 16:36:05] UserLevel 6
+[2018/04/12 16:39:21] Logged in user::
+[2018/04/12 16:39:21] UserLevel 6
+{2018/04/12 21:17:08} RaspiMJPEG Version 5.8.10
+{2018/04/12 21:17:08} recommended video buffer size 65536
+{2018/04/12 21:17:08} h264 size set to 131072
+{2018/04/12 21:17:08} recommended video buffers 1
+{2018/04/12 21:17:08} h264 buffers set to recommended 1
+{2018/04/12 21:17:08} Set up internal detect width=82 height=61
+{2018/04/12 21:17:08} Opening FIFO 0 /var/www/camera/FIFO 7
+{2018/04/12 21:17:09} Opening FIFO 1 /var/www/camera/FIFO11 8
+{2018/04/12 21:17:09} MJPEG streaming, ready to receive commands
+{2018/04/12 21:17:09} send smd 9
+[2018/04/12 21:17:14] RaspiCam support started
+[2018/04/12 21:17:14] Capture Pipe already exists /var/www/camera/FIFO1
+[2018/04/12 21:17:14] Scheduler loop is started
+{2018/04/12 21:17:14} Starting command loop
+[2018/04/12 21:17:14] Reload parameters command requested
+[2018/04/12 21:17:14] Scheduler loop is started
+[2018/04/12 21:17:15] New period detected 0
+[2018/04/12 21:17:15] Scheduled management tasks. Next at 1523571435
+[2018/04/13 06:41:58] New period detected 0
+[2018/04/13 06:41:58] Scheduled management tasks. Next at 1523605318
+[2018/04/13 07:41:59] Scheduled management tasks. Next at 1523608919
+[2018/04/13 08:42:00] Scheduled management tasks. Next at 1523612520
+[2018/04/13 09:42:01] Scheduled management tasks. Next at 1523616121
+[2018/04/13 10:42:02] Scheduled management tasks. Next at 1523619722
+[2018/04/13 11:42:03] Scheduled management tasks. Next at 1523623323
+[2018/04/13 12:42:04] Scheduled management tasks. Next at 1523626924
+[2018/04/13 13:42:05] Scheduled management tasks. Next at 1523630525
+[2018/04/13 14:42:06] Scheduled management tasks. Next at 1523634126
+[2018/04/13 15:42:07] Scheduled management tasks. Next at 1523637727
+[2018/04/13 16:42:08] Scheduled management tasks. Next at 1523641328
+[2018/04/13 17:42:09] Scheduled management tasks. Next at 1523644929
+[2018/04/13 18:42:10] Scheduled management tasks. Next at 1523648530
+[2018/04/13 19:42:11] Scheduled management tasks. Next at 1523652131
+[2018/04/13 20:42:12] Scheduled management tasks. Next at 1523655732
+[2018/04/13 21:42:13] Scheduled management tasks. Next at 1523659333
+[2018/04/13 22:42:14] Scheduled management tasks. Next at 1523662934
+[2018/04/13 23:42:15] Scheduled management tasks. Next at 1523666535
+[2018/04/14 00:00:00] New period detected 0
+[2018/04/14 00:42:16] Scheduled management tasks. Next at 1523670136
+[2018/04/14 01:42:17] Scheduled management tasks. Next at 1523673737
+[2018/04/14 02:42:18] Scheduled management tasks. Next at 1523677338
+[2018/04/14 03:42:19] Scheduled management tasks. Next at 1523680939
+[2018/04/14 04:42:20] Scheduled management tasks. Next at 1523684540
+[2018/04/14 05:42:21] Scheduled management tasks. Next at 1523688141
+[2018/04/14 06:42:22] Scheduled management tasks. Next at 1523691742
+[2018/04/14 07:42:23] Scheduled management tasks. Next at 1523695343
+[2018/04/14 08:42:24] Scheduled management tasks. Next at 1523698944
+[2018/04/14 09:42:25] Scheduled management tasks. Next at 1523702545
+{2018/04/14 10:17:08} RaspiMJPEG Version 5.8.10
+{2018/04/14 10:17:09} recommended video buffer size 65536
+{2018/04/14 10:17:09} h264 size set to 131072
+{2018/04/14 10:17:09} recommended video buffers 1
+{2018/04/14 10:17:09} h264 buffers set to recommended 1
+{2018/04/14 10:17:09} Set up internal detect width=82 height=61
+{2018/04/14 10:17:09} Opening FIFO 0 /var/www/camera/FIFO 7
+{2018/04/14 10:17:09} Opening FIFO 1 /var/www/camera/FIFO11 8
+{2018/04/14 10:17:09} MJPEG streaming, ready to receive commands
+{2018/04/14 10:17:09} send smd 9
+[2018/04/14 10:17:14] RaspiCam support started
+[2018/04/14 10:17:14] Capture Pipe already exists /var/www/camera/FIFO1
+[2018/04/14 10:17:14] Scheduler loop is started
+{2018/04/14 10:17:14} Starting command loop
+[2018/04/14 10:17:14] Reload parameters command requested
+[2018/04/14 10:17:14] Scheduler loop is started
+[2018/04/14 10:17:15] New period detected 0
+[2018/04/14 10:17:15] Scheduled management tasks. Next at 1523704635
+[2018/04/14 11:17:16] Scheduled management tasks. Next at 1523708236
+[2018/04/14 12:17:17] Scheduled management tasks. Next at 1523711837
+[2018/04/14 13:17:18] Scheduled management tasks. Next at 1523715438
+[2018/04/14 14:17:19] Scheduled management tasks. Next at 1523719039
+[2018/04/14 15:17:20] Scheduled management tasks. Next at 1523722640
+[2018/04/14 16:17:21] Scheduled management tasks. Next at 1523726241
+[2018/04/14 17:17:22] Scheduled management tasks. Next at 1523729842
+[2018/04/14 18:17:23] Scheduled management tasks. Next at 1523733443
+[2018/04/14 19:17:24] Scheduled management tasks. Next at 1523737044
+[2018/04/14 20:17:25] Scheduled management tasks. Next at 1523740645
+{2018/04/14 20:17:08} RaspiMJPEG Version 5.8.10
+{2018/04/14 20:17:08} recommended video buffer size 65536
+{2018/04/14 20:17:08} h264 size set to 131072
+{2018/04/14 20:17:08} recommended video buffers 1
+{2018/04/14 20:17:08} h264 buffers set to recommended 1
+{2018/04/14 20:17:08} Set up internal detect width=82 height=61
+{2018/04/14 20:17:08} Opening FIFO 0 /var/www/camera/FIFO 7
+{2018/04/14 20:17:08} Opening FIFO 1 /var/www/camera/FIFO11 8
+{2018/04/14 20:17:08} MJPEG streaming, ready to receive commands
+{2018/04/14 20:17:08} send smd 9
+[2018/04/14 20:17:14] RaspiCam support started
+[2018/04/14 20:17:14] Capture Pipe already exists /var/www/camera/FIFO1
+{2018/04/14 20:17:14} Starting command loop
+[2018/04/14 20:17:14] Scheduler loop is started
+[2018/04/14 20:17:14] Reload parameters command requested
+[2018/04/14 20:17:14] Scheduler loop is started
+[2018/04/14 20:17:15] New period detected 0
+[2018/04/14 20:17:15] Scheduled management tasks. Next at 1523740635
+[2018/04/15 07:13:30] New period detected 0
+[2018/04/15 07:13:30] Scheduled management tasks. Next at 1523780010
+[2018/04/15 08:13:31] Scheduled management tasks. Next at 1523783611
+[2018/04/15 09:13:32] Scheduled management tasks. Next at 1523787212
+[2018/04/15 10:13:33] Scheduled management tasks. Next at 1523790813
+[2018/04/15 10:39:53] Logged in user::
+[2018/04/15 10:39:53] UserLevel 6
+[2018/04/15 11:13:34] Scheduled management tasks. Next at 1523794414
+[2018/04/15 12:13:35] Scheduled management tasks. Next at 1523798015
+[2018/04/15 13:13:36] Scheduled management tasks. Next at 1523801616
+[2018/04/15 14:13:37] Scheduled management tasks. Next at 1523805217
+[2018/04/15 15:13:38] Scheduled management tasks. Next at 1523808818
+[2018/04/15 16:13:39] Scheduled management tasks. Next at 1523812419
+[2018/04/15 17:13:40] Scheduled management tasks. Next at 1523816020
+[2018/04/15 18:13:41] Scheduled management tasks. Next at 1523819621
+[2018/04/15 19:13:42] Scheduled management tasks. Next at 1523823222
+[2018/04/15 20:13:43] Scheduled management tasks. Next at 1523826823
+[2018/04/15 21:13:44] Scheduled management tasks. Next at 1523830424
+[2018/04/15 22:13:45] Scheduled management tasks. Next at 1523834025
+[2018/04/15 23:13:46] Scheduled management tasks. Next at 1523837626
+[2018/04/16 00:00:00] New period detected 0
+[2018/04/16 00:13:47] Scheduled management tasks. Next at 1523841227
+[2018/04/16 01:13:48] Scheduled management tasks. Next at 1523844828
+[2018/04/16 02:13:49] Scheduled management tasks. Next at 1523848429
+[2018/04/16 03:13:50] Scheduled management tasks. Next at 1523852030
+[2018/04/16 04:13:51] Scheduled management tasks. Next at 1523855631
+[2018/04/16 05:13:52] Scheduled management tasks. Next at 1523859232
+[2018/04/16 06:13:53] Scheduled management tasks. Next at 1523862833
+[2018/04/16 07:13:54] Scheduled management tasks. Next at 1523866434
+[2018/04/16 08:13:55] Scheduled management tasks. Next at 1523870035
+[2018/04/16 09:13:56] Scheduled management tasks. Next at 1523873636
+[2018/04/16 10:13:57] Scheduled management tasks. Next at 1523877237
+[2018/04/16 11:13:58] Scheduled management tasks. Next at 1523880838
+[2018/04/16 12:13:59] Scheduled management tasks. Next at 1523884439
+[2018/04/16 13:14:00] Scheduled management tasks. Next at 1523888040
+[2018/04/16 14:14:01] Scheduled management tasks. Next at 1523891641
+[2018/04/16 15:14:02] Scheduled management tasks. Next at 1523895242
+[2018/04/16 16:14:03] Scheduled management tasks. Next at 1523898843
+[2018/04/16 17:14:04] Scheduled management tasks. Next at 1523902444
+[2018/04/16 18:14:05] Scheduled management tasks. Next at 1523906045
+[2018/04/16 19:14:06] Scheduled management tasks. Next at 1523909646
+[2018/04/16 20:14:07] Scheduled management tasks. Next at 1523913247
+{2018/04/16 20:17:08} RaspiMJPEG Version 5.8.10
+{2018/04/16 20:17:08} recommended video buffer size 65536
+{2018/04/16 20:17:08} h264 size set to 131072
+{2018/04/16 20:17:08} recommended video buffers 1
+{2018/04/16 20:17:08} h264 buffers set to recommended 1
+{2018/04/16 20:17:08} Set up internal detect width=82 height=61
+{2018/04/16 20:17:08} Opening FIFO 0 /var/www/camera/FIFO 7
+{2018/04/16 20:17:08} Opening FIFO 1 /var/www/camera/FIFO11 8
+{2018/04/16 20:17:08} MJPEG streaming, ready to receive commands
+{2018/04/16 20:17:08} send smd 9
+[2018/04/16 20:17:14] RaspiCam support started
+[2018/04/16 20:17:14] Capture Pipe already exists /var/www/camera/FIFO1
+[2018/04/16 20:17:14] Scheduler loop is started
+{2018/04/16 20:17:14} Starting command loop
+[2018/04/16 20:17:14] Reload parameters command requested
+[2018/04/16 20:17:14] Scheduler loop is started
+[2018/04/16 20:17:15] New period detected 0
+[2018/04/16 20:17:15] Scheduled management tasks. Next at 1523913435
+[2018/04/17 06:10:01] New period detected 0
+[2018/04/17 06:10:01] Scheduled management tasks. Next at 1523949001
+[2018/04/17 07:10:02] Scheduled management tasks. Next at 1523952602
+[2018/04/17 08:10:03] Scheduled management tasks. Next at 1523956203
+[2018/04/17 09:10:04] Scheduled management tasks. Next at 1523959804
+[2018/04/17 10:10:05] Scheduled management tasks. Next at 1523963405
+[2018/04/17 11:10:06] Scheduled management tasks. Next at 1523967006
+[2018/04/17 12:10:07] Scheduled management tasks. Next at 1523970607
+[2018/04/17 13:10:08] Scheduled management tasks. Next at 1523974208
+[2018/04/17 14:10:09] Scheduled management tasks. Next at 1523977809
+[2018/04/17 15:10:10] Scheduled management tasks. Next at 1523981410
+[2018/04/17 16:10:11] Scheduled management tasks. Next at 1523985011
+[2018/04/17 17:10:12] Scheduled management tasks. Next at 1523988612
+[2018/04/17 18:10:13] Scheduled management tasks. Next at 1523992213
+[2018/04/17 19:10:14] Scheduled management tasks. Next at 1523995814
+[2018/04/17 20:10:15] Scheduled management tasks. Next at 1523999415
+[2018/04/17 21:10:16] Scheduled management tasks. Next at 1524003016
+{2018/04/17 21:17:08} RaspiMJPEG Version 5.8.10
+{2018/04/17 21:17:08} recommended video buffer size 65536
+{2018/04/17 21:17:08} h264 size set to 131072
+{2018/04/17 21:17:08} recommended video buffers 1
+{2018/04/17 21:17:08} h264 buffers set to recommended 1
+{2018/04/17 21:17:08} Set up internal detect width=82 height=61
+{2018/04/17 21:17:08} Opening FIFO 0 /var/www/camera/FIFO 7
+{2018/04/17 21:17:08} Opening FIFO 1 /var/www/camera/FIFO11 8
+{2018/04/17 21:17:08} MJPEG streaming, ready to receive commands
+{2018/04/17 21:17:08} send smd 9
+[2018/04/17 21:17:14] RaspiCam support started
+[2018/04/17 21:17:14] Capture Pipe already exists /var/www/camera/FIFO1
+{2018/04/17 21:17:14} Starting command loop
+[2018/04/17 21:17:14] Scheduler loop is started
+[2018/04/17 21:17:14] Reload parameters command requested
+[2018/04/17 21:17:14] Scheduler loop is started
+[2018/04/17 21:17:15] New period detected 0
+[2018/04/17 21:17:15] Scheduled management tasks. Next at 1524003435
+[2018/04/18 06:30:31] New period detected 0
+[2018/04/18 06:30:31] Scheduled management tasks. Next at 1524036631
+[2018/04/18 07:30:32] Scheduled management tasks. Next at 1524040232
+[2018/04/18 08:30:33] Scheduled management tasks. Next at 1524043833
+[2018/04/18 09:30:34] Scheduled management tasks. Next at 1524047434
+[2018/04/18 10:30:35] Scheduled management tasks. Next at 1524051035
+[2018/04/18 11:30:36] Scheduled management tasks. Next at 1524054636
+[2018/04/18 12:30:37] Scheduled management tasks. Next at 1524058237
+[2018/04/18 13:30:38] Scheduled management tasks. Next at 1524061838
+[2018/04/18 14:30:39] Scheduled management tasks. Next at 1524065439
+[2018/04/18 15:23:23] Logged in user::
+[2018/04/18 15:23:23] UserLevel 6
+{2018/04/18 15:24:05} Stream halted
+[2018/04/18 15:30:40] Scheduled management tasks. Next at 1524069040
+[2018/04/18 16:30:41] Scheduled management tasks. Next at 1524072641
+[2018/04/18 17:30:42] Scheduled management tasks. Next at 1524076242
+[2018/04/18 18:30:43] Scheduled management tasks. Next at 1524079843
+[2018/04/18 19:30:44] Scheduled management tasks. Next at 1524083444
+[2018/04/18 20:30:45] Scheduled management tasks. Next at 1524087045
+[2018/04/18 21:30:46] Scheduled management tasks. Next at 1524090646
+{2018/04/18 21:17:08} RaspiMJPEG Version 5.8.10
+{2018/04/18 21:17:08} recommended video buffer size 65536
+{2018/04/18 21:17:08} h264 size set to 131072
+{2018/04/18 21:17:08} recommended video buffers 1
+{2018/04/18 21:17:08} h264 buffers set to recommended 1
+{2018/04/18 21:17:08} Set up internal detect width=82 height=61
+{2018/04/18 21:17:08} Opening FIFO 0 /var/www/camera/FIFO 7
+{2018/04/18 21:17:08} Opening FIFO 1 /var/www/camera/FIFO11 8
+{2018/04/18 21:17:08} MJPEG streaming, ready to receive commands
+{2018/04/18 21:17:08} send smd 9
+[2018/04/18 21:17:13] RaspiCam support started
+[2018/04/18 21:17:13] Capture Pipe already exists /var/www/camera/FIFO1
+[2018/04/18 21:17:13] Scheduler loop is started
+{2018/04/18 21:17:13} Starting command loop
+[2018/04/18 21:17:14] Reload parameters command requested
+[2018/04/18 21:17:14] Scheduler loop is started
+[2018/04/18 21:17:15] New period detected 0
+[2018/04/18 21:17:15] Scheduled management tasks. Next at 1524089835
+[2018/04/19 06:40:20] New period detected 0
+[2018/04/19 06:40:20] Scheduled management tasks. Next at 1524123620
+[2018/04/19 07:40:21] Scheduled management tasks. Next at 1524127221
+[2018/04/19 08:40:22] Scheduled management tasks. Next at 1524130822
+[2018/04/19 09:40:23] Scheduled management tasks. Next at 1524134423
+[2018/04/19 10:40:24] Scheduled management tasks. Next at 1524138024
+[2018/04/19 11:40:25] Scheduled management tasks. Next at 1524141625
+[2018/04/19 12:40:26] Scheduled management tasks. Next at 1524145226
+[2018/04/19 13:40:27] Scheduled management tasks. Next at 1524148827
+[2018/04/19 14:40:28] Scheduled management tasks. Next at 1524152428
+[2018/04/19 15:40:29] Scheduled management tasks. Next at 1524156029
+[2018/04/19 16:40:30] Scheduled management tasks. Next at 1524159630
+[2018/04/19 17:40:31] Scheduled management tasks. Next at 1524163231
+[2018/04/19 18:40:32] Scheduled management tasks. Next at 1524166832
+[2018/04/19 19:40:33] Scheduled management tasks. Next at 1524170433
+[2018/04/19 20:40:34] Scheduled management tasks. Next at 1524174034
+[2018/04/19 21:40:35] Scheduled management tasks. Next at 1524177635
+{2018/04/19 21:17:08} RaspiMJPEG Version 5.8.10
+{2018/04/19 21:17:08} recommended video buffer size 65536
+{2018/04/19 21:17:08} h264 size set to 131072
+{2018/04/19 21:17:08} recommended video buffers 1
+{2018/04/19 21:17:08} h264 buffers set to recommended 1
+{2018/04/19 21:17:08} Set up internal detect width=82 height=61
+{2018/04/19 21:17:08} Opening FIFO 0 /var/www/camera/FIFO 7
+{2018/04/19 21:17:08} Opening FIFO 1 /var/www/camera/FIFO11 8
+{2018/04/19 21:17:08} MJPEG streaming, ready to receive commands
+{2018/04/19 21:17:08} send smd 9
+[2018/04/19 21:17:14] RaspiCam support started
+[2018/04/19 21:17:14] Capture Pipe already exists /var/www/camera/FIFO1
+[2018/04/19 21:17:14] Scheduler loop is started
+{2018/04/19 21:17:14} Starting command loop
+[2018/04/19 21:17:14] Reload parameters command requested
+[2018/04/19 21:17:14] Scheduler loop is started
+[2018/04/19 21:17:15] New period detected 0
+[2018/04/19 21:17:15] Scheduled management tasks. Next at 1524176235
+[2018/04/20 10:12:16] New period detected 0
+[2018/04/20 10:12:16] Scheduled management tasks. Next at 1524222736
+[2018/04/20 11:12:17] Scheduled management tasks. Next at 1524226337
+[2018/04/20 12:12:18] Scheduled management tasks. Next at 1524229938
+[2018/04/20 13:12:19] Scheduled management tasks. Next at 1524233539
+[2018/04/20 14:12:20] Scheduled management tasks. Next at 1524237140
+[2018/04/20 15:12:21] Scheduled management tasks. Next at 1524240741
+[2018/04/20 16:12:22] Scheduled management tasks. Next at 1524244342
+[2018/04/20 17:12:23] Scheduled management tasks. Next at 1524247943
+[2018/04/20 18:12:24] Scheduled management tasks. Next at 1524251544
+[2018/04/20 19:12:25] Scheduled management tasks. Next at 1524255145
+[2018/04/20 20:12:26] Scheduled management tasks. Next at 1524258746
+[2018/04/20 21:12:27] Scheduled management tasks. Next at 1524262347
+[2018/04/20 22:12:28] Scheduled management tasks. Next at 1524265948
+{2018/04/20 21:17:08} RaspiMJPEG Version 5.8.10
+{2018/04/20 21:17:08} recommended video buffer size 65536
+{2018/04/20 21:17:08} h264 size set to 131072
+{2018/04/20 21:17:08} recommended video buffers 1
+{2018/04/20 21:17:08} h264 buffers set to recommended 1
+{2018/04/20 21:17:09} Set up internal detect width=82 height=61
+{2018/04/20 21:17:09} Opening FIFO 0 /var/www/camera/FIFO 7
+{2018/04/20 21:17:09} Opening FIFO 1 /var/www/camera/FIFO11 8
+{2018/04/20 21:17:09} MJPEG streaming, ready to receive commands
+{2018/04/20 21:17:09} send smd 9
+[2018/04/20 21:17:14] RaspiCam support started
+[2018/04/20 21:17:14] Capture Pipe already exists /var/www/camera/FIFO1
+[2018/04/20 21:17:14] Scheduler loop is started
+{2018/04/20 21:17:14} Starting command loop
+[2018/04/20 21:17:14] Reload parameters command requested
+[2018/04/20 21:17:14] Scheduler loop is started
+[2018/04/20 21:17:15] New period detected 0
+[2018/04/20 21:17:15] Scheduled management tasks. Next at 1524262635
+[2018/04/21 06:42:15] New period detected 0
+[2018/04/21 06:42:15] Scheduled management tasks. Next at 1524296535
+[2018/04/21 07:42:16] Scheduled management tasks. Next at 1524300136
+[2018/04/21 08:42:17] Scheduled management tasks. Next at 1524303737
+[2018/04/21 09:42:18] Scheduled management tasks. Next at 1524307338
+[2018/04/21 10:42:19] Scheduled management tasks. Next at 1524310939
+[2018/04/21 11:42:20] Scheduled management tasks. Next at 1524314540
+[2018/04/21 12:42:21] Scheduled management tasks. Next at 1524318141
+[2018/04/21 13:42:22] Scheduled management tasks. Next at 1524321742
+[2018/04/21 14:42:23] Scheduled management tasks. Next at 1524325343
+[2018/04/21 15:42:24] Scheduled management tasks. Next at 1524328944
+[2018/04/21 16:42:25] Scheduled management tasks. Next at 1524332545
+[2018/04/21 17:42:26] Scheduled management tasks. Next at 1524336146
+[2018/04/21 18:42:27] Scheduled management tasks. Next at 1524339747
+[2018/04/21 19:42:28] Scheduled management tasks. Next at 1524343348
+[2018/04/21 20:42:29] Scheduled management tasks. Next at 1524346949
+[2018/04/21 21:42:30] Scheduled management tasks. Next at 1524350550
+{2018/04/21 21:17:08} RaspiMJPEG Version 5.8.10
+{2018/04/21 21:17:09} recommended video buffer size 65536
+{2018/04/21 21:17:09} h264 size set to 131072
+{2018/04/21 21:17:09} recommended video buffers 1
+{2018/04/21 21:17:09} h264 buffers set to recommended 1
+{2018/04/21 21:17:09} Set up internal detect width=82 height=61
+{2018/04/21 21:17:09} Opening FIFO 0 /var/www/camera/FIFO 7
+{2018/04/21 21:17:09} Opening FIFO 1 /var/www/camera/FIFO11 8
+{2018/04/21 21:17:09} MJPEG streaming, ready to receive commands
+{2018/04/21 21:17:09} send smd 9
+[2018/04/21 21:17:14] RaspiCam support started
+[2018/04/21 21:17:14] Capture Pipe already exists /var/www/camera/FIFO1
+[2018/04/21 21:17:14] Scheduler loop is started
+{2018/04/21 21:17:14} Starting command loop
+[2018/04/21 21:17:14] Reload parameters command requested
+[2018/04/21 21:17:14] Scheduler loop is started
+[2018/04/21 21:17:15] New period detected 0
+[2018/04/21 21:17:15] Scheduled management tasks. Next at 1524349035
+[2018/04/22 07:40:30] New period detected 0
+[2018/04/22 07:40:30] Scheduled management tasks. Next at 1524386430
+[2018/04/22 08:40:31] Scheduled management tasks. Next at 1524390031
+[2018/04/22 09:40:32] Scheduled management tasks. Next at 1524393632
+[2018/04/22 10:40:33] Scheduled management tasks. Next at 1524397233
+[2018/04/22 11:40:34] Scheduled management tasks. Next at 1524400834
+[2018/04/22 12:40:35] Scheduled management tasks. Next at 1524404435
+[2018/04/22 13:40:36] Scheduled management tasks. Next at 1524408036
+[2018/04/22 14:40:37] Scheduled management tasks. Next at 1524411637
+[2018/04/22 15:40:38] Scheduled management tasks. Next at 1524415238
+[2018/04/22 16:40:39] Scheduled management tasks. Next at 1524418839
+[2018/04/22 17:40:40] Scheduled management tasks. Next at 1524422440
+[2018/04/22 18:40:41] Scheduled management tasks. Next at 1524426041
+[2018/04/22 19:40:42] Scheduled management tasks. Next at 1524429642
+[2018/04/22 20:40:43] Scheduled management tasks. Next at 1524433243
+[2018/04/22 21:40:44] Scheduled management tasks. Next at 1524436844
+{2018/04/22 21:17:08} RaspiMJPEG Version 5.8.10
+{2018/04/22 21:17:08} recommended video buffer size 65536
+{2018/04/22 21:17:08} h264 size set to 131072
+{2018/04/22 21:17:08} recommended video buffers 1
+{2018/04/22 21:17:08} h264 buffers set to recommended 1
+{2018/04/22 21:17:09} Set up internal detect width=82 height=61
+{2018/04/22 21:17:09} Opening FIFO 0 /var/www/camera/FIFO 7
+{2018/04/22 21:17:09} Opening FIFO 1 /var/www/camera/FIFO11 8
+{2018/04/22 21:17:09} MJPEG streaming, ready to receive commands
+{2018/04/22 21:17:09} send smd 9
+[2018/04/22 21:17:14] RaspiCam support started
+[2018/04/22 21:17:14] Capture Pipe already exists /var/www/camera/FIFO1
+[2018/04/22 21:17:14] Scheduler loop is started
+{2018/04/22 21:17:14} Starting command loop
+[2018/04/22 21:17:14] Reload parameters command requested
+[2018/04/22 21:17:14] Scheduler loop is started
+[2018/04/22 21:17:15] New period detected 0
+[2018/04/22 21:17:15] Scheduled management tasks. Next at 1524435435
+[2018/04/23 06:08:17] New period detected 0
+[2018/04/23 06:08:17] Scheduled management tasks. Next at 1524467297
+[2018/04/23 07:08:18] Scheduled management tasks. Next at 1524470898
+[2018/04/23 08:08:19] Scheduled management tasks. Next at 1524474499
+[2018/04/23 09:08:20] Scheduled management tasks. Next at 1524478100
+[2018/04/23 10:08:21] Scheduled management tasks. Next at 1524481701
+[2018/04/23 11:08:22] Scheduled management tasks. Next at 1524485302
+[2018/04/23 12:08:23] Scheduled management tasks. Next at 1524488903
+[2018/04/23 13:08:24] Scheduled management tasks. Next at 1524492504
+[2018/04/23 14:08:25] Scheduled management tasks. Next at 1524496105
+[2018/04/23 15:08:26] Scheduled management tasks. Next at 1524499706
+[2018/04/23 16:08:27] Scheduled management tasks. Next at 1524503307
+[2018/04/23 17:08:28] Scheduled management tasks. Next at 1524506908
+[2018/04/23 18:08:29] Scheduled management tasks. Next at 1524510509
+[2018/04/23 19:08:30] Scheduled management tasks. Next at 1524514110
+[2018/04/23 20:08:31] Scheduled management tasks. Next at 1524517711
+[2018/04/23 21:08:32] Scheduled management tasks. Next at 1524521312
+{2018/04/23 21:17:08} RaspiMJPEG Version 5.8.10
+{2018/04/23 21:17:09} recommended video buffer size 65536
+{2018/04/23 21:17:09} h264 size set to 131072
+{2018/04/23 21:17:09} recommended video buffers 1
+{2018/04/23 21:17:09} h264 buffers set to recommended 1
+{2018/04/23 21:17:09} Set up internal detect width=82 height=61
+{2018/04/23 21:17:09} Opening FIFO 0 /var/www/camera/FIFO 7
+{2018/04/23 21:17:09} Opening FIFO 1 /var/www/camera/FIFO11 8
+{2018/04/23 21:17:09} MJPEG streaming, ready to receive commands
+{2018/04/23 21:17:09} send smd 9
+[2018/04/23 21:17:14] RaspiCam support started
+[2018/04/23 21:17:14] Capture Pipe already exists /var/www/camera/FIFO1
+[2018/04/23 21:17:14] Scheduler loop is started
+{2018/04/23 21:17:14} Starting command loop
+[2018/04/23 21:17:14] Reload parameters command requested
+[2018/04/23 21:17:14] Scheduler loop is started
+[2018/04/23 21:17:15] New period detected 0
+[2018/04/23 21:17:15] Scheduled management tasks. Next at 1524521835
+[2018/04/30 13:53:48] Scheduled management tasks. Next at 1525100028

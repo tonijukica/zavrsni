@@ -1,0 +1,9 @@
+{2018/04/12 11:37:32} Motion start detected
+{2018/04/12 11:37:38} Motion stop detected
+{2018/04/12 11:38:54} Motion start detected
+{2018/04/12 11:39:04} Motion stop detected
+{2018/04/12 11:39:07} Motion start detected
+{2018/04/12 11:39:15} Motion stop detected
+{2018/04/12 11:40:51} Motion start detected
+{2018/04/12 11:42:55} Motion start detected
+{2018/04/12 11:43:02} Motion stop detected

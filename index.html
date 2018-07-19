@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>Projekt Pametne Kuce</title>
+  <!-- Tell the browser to be responsive to screen width -->
+  <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
+  <link rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap.min.css">
+  <!-- Font Awesome -->
+  <link rel="stylesheet" href="bower_components/font-awesome/css/font-awesome.min.css">
+  <!-- Ionicons -->
+  <link rel="stylesheet" href="bower_components/Ionicons/css/ionicons.min.css">
+  <!-- Theme style -->
+  <link rel="stylesheet" href="dist/css/AdminLTE.min.css">
+  <!-- AdminLTE Skins. We have chosen the skin-blue for this starter
+        page. However, you can choose any other skin. Make sure you
+        apply the skin class to the body tag so the changes take effect. -->
+  <link rel="stylesheet" href="dist/css/skins/skin-blue.min.css">  
+  <link rel="stylesheet"
+        href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700,300italic,400italic,600italic">
+
+  <template id="box-template">
+      <div class="box box-solid box-success" id="" data-widget="box-refresh" data-option="value">
+        <div class="box-header with-border">
+          <h3 class="box-title"></h3>
+          <div class="box-tools pull-right">
+            <button type="button" class="btn btn-box-tool" data-widget="collapse" data-toggle="tooltip"
+                    title="Collapse">
+              <i class="fa fa-minus"></i></button>
+            <button type="button" class="btn btn-box-tool remove" data-widget="remove" data-toggle="tooltip" title="Remove">
+              <i class="fa fa-times"></i></button>
+          </div>
+        </div>
+        <div class="box-body">
+        </div>
+        <div class="box-footer" >  
+                <button class="bootboxbtn btn">Dodaj</button>
+        </div>
+  </template>
+
+  <template id="boxInBox-template">
+     <div class="box" id="" data-widget="box-refresh" data-option="value">
+       <div class="box-header with-border">
+         <h3 class="box-title"></h3>
+         <div class="box-tools pull-right">
+           <button type="button" class="btn btn-box-tool" data-widget="collapse" data-toggle="tooltip"
+                   title="Collapse">
+             <i class="fa fa-minus"></i></button>
+           <button type="button" class="btn btn-box-tool" data-widget="remove" data-toggle="tooltip" title="Remove">
+             <i class="fa fa-times"></i></button>
+         </div>
+       </div>
+       <div class="box-body">
+          <input  class="btn1"id="" type="checkbox"  data-toggle="toggle" data-onstyle="success" data-offstyle="danger">
+       </div>
+     </div>
+ </template>
+</head>
+<!--
+BODY TAG OPTIONS:
+=================
+Apply one or more of the following classes to get the
+desired effect
+|---------------------------------------------------------|
+| SKINS         | skin-blue                               |
+|               | skin-black                              |
+|               | skin-purple                             |
+|               | skin-yellow                             |
+|               | skin-red                                |
+|               | skin-green                              |
+|---------------------------------------------------------|
+|LAYOUT OPTIONS | fixed                                   |
+|               | layout-boxed                            |
+|               | layout-top-nav                          |
+|               | sidebar-collapse                        |
+|               | sidebar-mini                            |
+|---------------------------------------------------------|
+-->
+<body class="layout-top-nav hold-transition skin-blue sidebar-mini">
+<div class="wrapper" style="height: auto; min-height: 100%;">
+
+  <!-- Main Header -->
+  <header class="main-header">
+    <!-- Header Navbar -->
+    <nav class="navbar navbar-static-top">
+        <div class="container">
+          <div class="navbar-header">
+            <a href="https://adminlte.io/themes/AdminLTE/index2.html" class="navbar-brand"><b>Kuca</b>Pi</a>
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse">
+              <i class="fa fa-bars"></i>
+            </button>
+          </div>
+          <!-- Collect the nav links, forms, and other content for toggling -->
+          <div class="collapse navbar-collapse pull-left" id="navbar-collapse">
+            <ul class="nav navbar-nav">
+              <li class=><a href="">Pocetna<span class="sr-only">(current)</span></a></li>
+              <li><a href="camera/index.php">Kamera</a></li>
+              <li class="active">
+                <a href="" class="" data-toggle="dropdown">Prostorije</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </nav>
+    </header>
+
+  <!-- Content Wrapper. Contains page content -->
+  <div class="content-wrapper" style="min-height: 848px;">
+    <div class="container">
+    <!-- Content Header (Page header) -->
+    <section class="content-header">
+      <h1>
+        Prostorije 
+        <small><button id="addBox" class="btn btn-sm">+</button></small>
+      </h1>
+    </section>
+
+    <!-- Main content -->
+    <section class="content container-fluid" id="contentBox">
+      <!--------------------------
+        | Your Page Content Here |
+        -------------------------->
+    </section>
+    <!-- /.content -->
+  </div>
+  </div>
+  <!-- /.content-wrapper -->
+
+  <!-- Main Footer -->
+  <footer class="main-footer">
+    <!-- To the right -->
+    <div class="pull-right hidden-xs">
+    </div>
+    <!-- Default to the left -->
+    <strong>Copyright &copy; 2018 <a href="#">Toni Jukica</a>.</strong>
+  </footer>
+</div>
+<!-- ./wrapper -->
+<!-- REQUIRED JS SCRIPTS -->
+<!-- jQuery 3 -->
+<script src="bower_components/jquery/dist/jquery.min.js"></script>
+<!-- Bootstrap 3.3.7 -->
+<script src="bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
+<!-- AdminLTE App -->
+<script src="dist/js/adminlte.min.js"></script>
+<script src="dist/js/bootbox.min.js"></script>
+<!-- Bootstrap switch - dvi datoteke -->
+<link href="https://gitcdn.github.io/bootstrap-toggle/2.2.2/css/bootstrap-toggle.min.css" rel="stylesheet">
+<script src="https://gitcdn.github.io/bootstrap-toggle/2.2.2/js/bootstrap-toggle.min.js"></script>
+<!-- Custom script -->
+<script src="dist/js/custom.js" ></script>
+<!-- Optionally, you can add Slimscroll and FastClick plugins.
+     Both of these plugins are recommended to enhance the
+     user experience. -->
+</body>
+<div class="form-content" style="display:none;">
+  <form class="form" role="form">
+    <div class="form-group">
+      <label for="uredaj">Ime uređaja</label>
+      <input type="text" class="form-control" id="uredaj" name="uredaj" placeholder="Ime uredaja"  ></input>
+    </div>
+    <div class="form-group">
+      <label for="pin">Pin</label>
+      <input type="text" class="form-control" id="pin" name="pin" placeholder="Pin">
+    </div>
+  </form>
+</div>
+</html>
